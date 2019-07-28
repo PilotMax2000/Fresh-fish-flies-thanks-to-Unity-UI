@@ -1,5 +1,6 @@
-﻿
-public static class RodLevelSystem  {
+﻿namespace FishingTestTask
+{
+    public static class RodLevelSystem  {
 
     public const int EXP_INCREMENTOR = 1;
     public static void ExpToLevel(int expOnStart, out int level, out int expToNextLevel, out int currLevelExp)
@@ -25,4 +26,6 @@ public static class RodLevelSystem  {
     {
         return currLevel + EXP_INCREMENTOR;
     }
+}
+
 }

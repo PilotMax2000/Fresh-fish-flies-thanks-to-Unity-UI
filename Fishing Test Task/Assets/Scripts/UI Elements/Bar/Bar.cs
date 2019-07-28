@@ -1,17 +1,21 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class Bar : MonoBehaviour {
+namespace FishingTestTask
+{
+    public class Bar : MonoBehaviour
+    {
 
-	[SerializeField] private UnityEngine.UI.Image _bar;
+        [SerializeField] private UnityEngine.UI.Image _bar;
 
-	private void Awake() {
-		_bar = GetComponent<UnityEngine.UI.Image>();
-	}
+        private void Awake()
+        {
+            _bar = GetComponent<UnityEngine.UI.Image>();
+        }
 
-	public void SetBarValue(float currentValue, float maxValue)
-	{
-		_bar.fillAmount = currentValue/maxValue;
-	}
+        public void SetBarValue(float currentValue, float maxValue)
+        {
+            _bar.fillAmount = currentValue / maxValue;
+        }
+    }
+
 }
