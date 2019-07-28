@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Fishing UI Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 36c8ee082342947448d40aca63e0c4d5, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4a68c5103796040449fff0d406353816, type: 3}
+  - {fileID: 21300000, guid: e159b4b0bb1c8b540911e509faf49d75, type: 3}
+  - {fileID: 21300000, guid: 8efdaec078270a54bb86af83f09c4ed9, type: 3}
+  - {fileID: 21300000, guid: 9c3a7af08ba23234fab4e519a1d8c8e3, type: 3}
+  - {fileID: 21300000, guid: 0d456b016da6806459f2bf06bb986ec9, type: 3}
+  - {fileID: 21300000, guid: 0788906130cbfd14da87492114d6a6d2, type: 3}
+  - {fileID: 21300000, guid: 6b66f79142b95de49876c53ef92487fa, type: 3}
+  - {fileID: 21300000, guid: 1b935912eb26fd345a2e294ccd3b9338, type: 3}
+  - {fileID: 21300000, guid: 9361a12213eb6594fae21d781f9aac7b, type: 3}
+  - {fileID: 21300000, guid: ebdaaa22aa095da4aa6152718e1c471d, type: 3}
+  - {fileID: 21300000, guid: 05402c72f8d0f0f439765ddb135f8ee3, type: 3}
+  - {fileID: 21300000, guid: a50ea203f02195441a6afb8275bbbc9e, type: 3}
+  - {fileID: 21300000, guid: 7d506f033762c164a83cda560b3555c7, type: 3}
+  - {fileID: 21300000, guid: 036de8236d788684c89d2baa0f86c51c, type: 3}
+  - {fileID: 21300000, guid: 0b41a933c1e0d7a4dbf96d69c0696cdc, type: 3}
+  - {fileID: 21300000, guid: 6ce2525370889834da280ad9fd880dbe, type: 3}
+  - {fileID: 21300000, guid: 8cf92883a801bee4f8d55bb85b70193d, type: 3}
+  - {fileID: 21300000, guid: cef2f0c3819e24b4884e72ba85a6e7a7, type: 3}
+  - {fileID: 21300000, guid: 7df3e9c3a351743469a2f860589e28c4, type: 3}
+  - {fileID: 21300000, guid: f43fab451a15f1d49993d03a74162533, type: 3}
+  - {fileID: 21300000, guid: 53113c550499f57489b830e33d504636, type: 3}
+  - {fileID: 21300000, guid: e09623b53594fce488532e8c33bf4fea, type: 3}
+  - {fileID: 21300000, guid: 69e0e1161a33f104b95972c5f46f62a1, type: 3}
+  - {fileID: 21300000, guid: 6d851eb6e2a6b734796f95cdc32e4358, type: 3}
+  - {fileID: 21300000, guid: 12363cc6af79e9f45a0d646d486c36c2, type: 3}
+  - {fileID: 21300000, guid: 402b9527d16955d4c93d3f7429154063, type: 3}
+  - {fileID: 21300000, guid: 4371bf27a5c29214588cc7888ce87096, type: 3}
+  - {fileID: 21300000, guid: 1c65c9374e6be174999a75b1d1d5b473, type: 3}
+  - {fileID: 21300000, guid: 7e1c8167bb1a83c4cb27c913e121f658, type: 3}
+  - {fileID: 21300000, guid: f52c0448f7bde8f4ebab4e716becae86, type: 3}
+  - {fileID: 21300000, guid: 5b7c5c58f0760bb4fbca55aeedd2c769, type: 3}
+  - {fileID: 21300000, guid: a598b19885eda5c40b09cf0075459c41, type: 3}
+  - {fileID: 21300000, guid: 6478552a08989874f8ba9c1a232d1c4d, type: 3}
+  - {fileID: 21300000, guid: a8b8035a36e01aa4d86dc6f84b37bbac, type: 3}
+  - {fileID: 21300000, guid: bff60d5a4278cd34d8b4a1ba04b0ccee, type: 3}
+  - {fileID: 21300000, guid: 33da8d8a613fc1146add7224ecca19e0, type: 3}
+  - {fileID: 21300000, guid: ac4180cac844a294682cf6963773b8f8, type: 3}
+  - {fileID: 21300000, guid: 133467da629049d40824d602c81bf8bc, type: 3}
+  - {fileID: 21300000, guid: fcbb682b187fc0549ac7344849d59b41, type: 3}
+  - {fileID: 21300000, guid: fa41423b44119f348b1a1f1b977bbb71, type: 3}
+  - {fileID: 21300000, guid: a4c5556b2c072ef44b4a4d902c6a7891, type: 3}
+  - {fileID: 21300000, guid: ce87ac6bbd6fdcd4daa8f29ff9751d59, type: 3}
+  - {fileID: 21300000, guid: d3d5b98bf7053594ba9388da4a787de7, type: 3}
+  - {fileID: 21300000, guid: 238257cb45d99b048872e92121b0be89, type: 3}
+  - {fileID: 21300000, guid: 7992addbe0e09d3408e92390bd440fce, type: 3}
+  - {fileID: 21300000, guid: 2bbe2b2c15fd20a47a622217f032c365, type: 3}
+  - {fileID: 21300000, guid: 2ba70decff972ab4fbad05784127bc8b, type: 3}
+  - {fileID: 21300000, guid: dbf6a31d0f195e345ad4e9c7d2b14d2d, type: 3}
+  - {fileID: 21300000, guid: 43688c5d776992947ab8cab493d21b91, type: 3}
+  - {fileID: 21300000, guid: 587c6fcd259ca9d4eaa2a7c6120b0943, type: 3}
+  - {fileID: 21300000, guid: b67ed5ddd0e62f54facfdf8041da2a24, type: 3}
+  - {fileID: 21300000, guid: 7a9d36fd0ff1f7d4f905e363af40d23c, type: 3}
+  - {fileID: 21300000, guid: 0fd52c9e9f56be64a88d73f1f22057c6, type: 3}
+  - {fileID: 21300000, guid: 3308990ff229c83438c7fe9542184154, type: 3}
+  - {fileID: 21300000, guid: 94288f3fce0c544429b7f2d361d262ec, type: 3}
+  - {fileID: 21300000, guid: 0dcfa0bfa66c39846bcdfa3f199f557e, type: 3}
+  - {fileID: 21300000, guid: f11b6acfdb6621045a0622d1568125c7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hard_currency
+  - rod_baitcasting_unbreakable
+  - rod_spinning_twister
+  - Background_stats
+  - Purple_bar_BG
+  - rod_flyfishing_beauty
+  - Pagination_button_active
+  - rod_flyfishing_atlas
+  - arrow_upgrade
+  - blue_star
+  - selected_BG
+  - Green_bar
+  - rod_flyfishing_dragonfly
+  - Yellow_bar_BG
+  - rod_spinning_surfer
+  - Frame_for_item
+  - LV_blue
+  - Purple_bar
+  - BT_add
+  - rod_baitcasting_titan
+  - Yellow_bar
+  - padlock_icon
+  - rod_icon_0
+  - Statistic_bar
+  - bar_bg_popup
+  - Selected_BG_2
+  - Lock_BG
+  - Star_icon
+  - rod_flyfishing_01
+  - Button1
+  - LV_purple
+  - soft_currency
+  - star_empty
+  - rod_spinning_prism
+  - Max_lv_BG
+  - BG_top_bar
+  - Options_icon
+  - Blue_bar
+  - distinction
+  - Blue_bar_BG
+  - Yellow_card
+  - rod_flyfishing_rifle
+  - Statictic_bar_y
+  - TopPlus
+  - reel_icon_0
+  - Orange_bar
+  - LV_yellow
+  - Statistic_bar_BG
+  - rod_spinning_spyglass
+  - Mask_sprite
+  - Blue_card
+  - rod_baitcasting_firestarter
+  - Purple_card
+  - Button_active1
+  - rod_baitcasting_bigjig
+  - Gradient
+  - Pagination_button
+  m_Tag: Fishing UI Atlas
+  m_IsVariant: 0

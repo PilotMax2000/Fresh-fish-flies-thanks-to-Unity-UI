@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4baa1960a0ab28f41b08ebaa1f790fe8, type: 3}
+  m_Name: TwisterPrism
+  m_EditorClassIdentifier: 
+  ID: 0
+  RodPrefab: {fileID: 1784942275353302, guid: adacd43397afb5d4d8d273a4889d18b4, type: 2}
