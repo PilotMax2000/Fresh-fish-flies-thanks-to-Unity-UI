@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b7ce99ad8511ac48ab269d6c15a302c, type: 3}
   m_Name: "\u0141awacz Fal"
   m_EditorClassIdentifier: 
-  RodName: Lawacz Fal
+  RodName: "\u0141awacz Fal"
   Icon: {fileID: 21300000, guid: 0b41a933c1e0d7a4dbf96d69c0696cdc, type: 3}
   Rarity: 0
   Type: 0

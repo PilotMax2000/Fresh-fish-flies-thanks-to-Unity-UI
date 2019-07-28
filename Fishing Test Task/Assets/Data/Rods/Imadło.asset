@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b7ce99ad8511ac48ab269d6c15a302c, type: 3}
   m_Name: "Imad\u0142o"
   m_EditorClassIdentifier: 
-  RodName: Imadlo
+  RodName: "Imad\u0142o"
   Icon: {fileID: 21300000, guid: e159b4b0bb1c8b540911e509faf49d75, type: 3}
   Rarity: 2
   Type: 1
